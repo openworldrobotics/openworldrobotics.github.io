@@ -295,7 +295,7 @@ ul.dropdown-menu li a {
 }
 
 .organizer:hover a {
-    color: #AF6125;
+    color: #af6125;
     text-decoration: none;
 }
 
@@ -350,4 +350,17 @@ ul.dropdown-menu li a {
     border-right: 10px solid transparent;
     border-top: 20px solid rgb(255, 255, 255);
     float: right;
+}
+
+.conference {
+    color: #79278a;
+    margin: 20px;
+    margin-bottom: -10px;
+}
+
+.title {
+    margin-top: 4ex;
+    width: 80%;
+    margin: auto;
+    color: #000000;
 }
